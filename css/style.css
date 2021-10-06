@@ -97,15 +97,17 @@ a.thumbnail {
 }
 
 a > figure > img {
-    /* display: block; */
-    /* height: auto; */
-    /* margin: 1rem auto auto; */
     width: 100%;
 }
 
 a > figure > figcaption {
     color: black;
     font-size: 12px;
-    /* padding: 0.2rem; */
     text-align: center;
+}
+
+/* Project 3 page */
+
+#project-3 h3 {
+    text-decoration: underline;
 }
